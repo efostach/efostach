@@ -1,16 +1,18 @@
-### Hi there 👋
+### Who I am
+Hi, I am Helen – a fullstack software developer. I use the following technologies at my work:
+- Java
+- JDBC, Hibernate, Liquibase
+- Lombok
+- Spring (Boot, MVC, Data, Web, Security)
+- Oracle DB, MySQL
+- JUnit, Mockito
+- Maven, Tomcat, Jenkins, Travis, Heroku
+- HTML, CSS
+- JS, Angular
+- Git
 
-<!--
-**efostach/efostach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Get in touch
+- E-mail: elena.fostach@gmail.com
+- LinkedIn: https://www.linkedin.com/in/helen-fostach-94613bb4/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nice to meet you! 🙂
