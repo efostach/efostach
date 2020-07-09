@@ -1,4 +1,4 @@
-### Who I am
+## Who I am 👩🏻‍💻
 Hi, I am Helen – a fullstack software developer. I use the following technologies at my work:
 - Java
 - JDBC, Hibernate, Liquibase
@@ -11,8 +11,8 @@ Hi, I am Helen – a fullstack software developer. I use the following technolog
 - JS, Angular
 - Git
 
-### Get in touch
+## Get in touch
 - E-mail: elena.fostach@gmail.com
 - LinkedIn: https://www.linkedin.com/in/helen-fostach-94613bb4/
 
-Nice to meet you! 🙂
+Nice to meet you! ✌🏻
