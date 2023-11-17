@@ -15,4 +15,4 @@ Hi, I am Helen – a software engineer. I use the following technologies at my w
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/helen-fostach-94613bb4/
 
-Nice to meet you! ✌🏻
+
